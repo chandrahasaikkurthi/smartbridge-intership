@@ -1,1 +1,1 @@
-# smartbridge-intership
+# smartbridge-internship
